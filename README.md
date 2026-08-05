@@ -15,6 +15,7 @@
   <img align="center" alt="Junior-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Junior-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Junior-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Junior-Zabbix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zabbix/zabbix-original.svg">
 </div>
 
 ##
