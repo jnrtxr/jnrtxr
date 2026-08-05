@@ -16,6 +16,15 @@
 
 ##
 
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=jnrtxr&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jnrtxr&theme=tokyonight&hide_border=true)
+
+</div>
+
+##
+
 <div> 
   <a href="https://www.linkedin.com/in/jsilva29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:junior29012001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
