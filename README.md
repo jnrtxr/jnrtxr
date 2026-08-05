@@ -1,6 +1,6 @@
-## Hi, I'm Junior Silva — IT Analyst | Infrastructure • DevOps • Observability 👋
+## Hi, I'm Junior Silva — IT Analyst. 
 
-💻 Passionate about infrastructure, automation, cloud and monitoring.
+My Skills 👇🏻
 
 ### 🖥️ OS & Virtualization
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
