@@ -1,179 +1,25 @@
-<div align="center">
-
-# 👋 Hi, I'm Junior Silva
-
-### IT Analyst | Infrastructure • DevOps • Observability
+## Hi, I'm Junior Silva — IT Analyst | Infrastructure • DevOps • Observability 👋
 
 💻 Passionate about infrastructure, automation, cloud and monitoring.
 
-Currently focused on:
-
-🔹 Zabbix
-
-🔹 Docker
-
-🔹 Linux
-
-🔹 Cloud
-
-🔹 DevOps
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Infrastructure+Engineer;DevOps+Enthusiast;Zabbix+Specialist;Always+Learning+Something+New" />
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Junior-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Junior-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="Junior-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Junior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Junior-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Junior-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Junior-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Junior-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Junior-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Junior-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Junior-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
----
-
-# 🚀 About Me
-
-- 💼 IT Analyst
-
-- 📍 Brazil
-
-- 🖥️ Network and Server Infrastructure
-
-- 📊 Monitoring Specialist with Zabbix
-
-- ☁️ Cloud & Virtualization
-
-- 🐳 Containers & DevOps
-
-- 📚 Always learning new technologies
-
----
-
-# 🛠️ Tech Stack
-
-## Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-
-</p>
-
----
-
-## Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws" />
-
-</p>
-
----
-
-## Containers
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-</p>
-
----
-
-## Virtualization
-
-<p>
-
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-
-</p>
-
----
-
-## Monitoring
-
-<p>
-
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell" />
-
-</p>
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-
-</p>
-
----
-
-## Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,vue" />
-
-</p>
-
----
-
-## Networking
-
-<p>
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge)
-
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=jnrtxr&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jnrtxr&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jnrtxr&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 📫 Contact
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jsilva29/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:junior29012001@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-![](https://komarev.com/ghpvc/?username=jnrtxr&color=blueviolet&style=for-the-badge)
-
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/jsilva29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:junior29012001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
